@@ -62,6 +62,6 @@
         "unofficial-fb-chat-api": "^1.0.0"
     },
     "devDependencies": {
-        "node": "^18.17.0"
+        "node": "^12.22.9"
     }
     }
